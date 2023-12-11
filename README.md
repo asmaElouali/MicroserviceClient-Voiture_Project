@@ -7,7 +7,9 @@
  🔧Technologies utilisee 
 
  => MySQL : Systeme de gestion de base de donnee
+ 
  => discovery Eureka : l'enregistrement de chaque microservice de maniere dynamique . 
+ 
  => Outil openFeign : utilise pour l’implémentation d’une communication synchrone entre les micro-services et l'etablissement d'un microservice Gateway .
  
  🛢️ la presentation des classes Client et voiture 🛢️
